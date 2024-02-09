@@ -118,6 +118,8 @@ Wanna help ? Awesome! There are many ways you can contribute ! Take a look at:
 
 ## Contributors
 
+- Chief Dahunsi. ([@chiefdahunsi](https://twitter.com/chiefdahunsi))
+
 <p align="center">
     <a href="https://github.com/Onedoclabs/react-print/graphs/contributors">
         <img src="https://contrib.rocks/image?repo=onedoclabs/react-print&max=100&columns=10" width="400"/></a>
